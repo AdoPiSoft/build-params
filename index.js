@@ -10,8 +10,8 @@ module.exports = () => {
   const dev = !production && !debug
 
   return {
-    prod: true,
     dev,
+    prod: production,
     production,
     debug,
     drop_console,
