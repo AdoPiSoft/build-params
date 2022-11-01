@@ -1,5 +1,5 @@
 {
-  "name": "@adopisoft/gulp-params",
+  "name": "@adopisoft/build-params",
   "version": "1.0.0",
   "description": "Common gulp env params",
   "main": "index.js",
